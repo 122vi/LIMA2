@@ -1,2 +1,2 @@
 # LIMA2
-#QUI
+#QUIZ
